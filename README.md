@@ -1,4 +1,4 @@
-JioSaavn Music Analytics Dashboard (Power BI)
+<h2 style="font-size:40px;">JioSaavn Music Analytics Dashboard (Power BI)</h2>
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNzlkYmI0NTEtMDBmMS00NzhmLTgxMGItZGFmZjUwYmFhMzEyIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9
 
